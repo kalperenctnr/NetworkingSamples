@@ -1,4 +1,4 @@
-## NetworkingSamples
+## Networking Samples
 **TCP/IP-UDP Samples for Windows Networking &amp; Unity**
 
 While building a Unity App involving data transfer across multiple devices, one may need a fast implementation that can be tailored to various needs. 
